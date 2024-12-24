@@ -1,0 +1,4 @@
+janome.tokenizer
+wordcloud
+matplotlib
+os
